@@ -55,6 +55,6 @@ end
 total = mon.to_i + tues.to_i + wed.to_i + thurs.to_i + fri.to_i
 
 puts "--------------------------------------"
-puts "Total Hours: " + total.to_s + houzhui + "\n\n\n"
+puts "Total Hours: " + total.to_s + houzhui + "\n\n"
 puts "- Chenxi Gao\n\n"
 
